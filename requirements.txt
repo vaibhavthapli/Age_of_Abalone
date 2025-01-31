@@ -1,0 +1,10 @@
+pandas
+numpy
+mysql-connector-python
+pymysql
+scikit-learn
+seaborn
+matplotlib
+lazypredict
+
+-e .
