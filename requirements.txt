@@ -7,4 +7,5 @@ seaborn
 matplotlib
 lazypredict
 python-dotenv
+scipy
 -e .
