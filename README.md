@@ -14,3 +14,5 @@ Predicting the age of abalone from physical measurements.  The age of abalone is
 From the original data examples with missing values were removed (the majority having the predicted value missing), and the ranges of the continuous values have been scaled for use with an ANN (by dividing by 200).
 
 Output: Predict the age of abalone from physical measurements
+
+[View Analysis Report](https://vaibhavthapli.github.io/Age_of_Abalone/Analysis_report.html)
