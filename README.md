@@ -15,4 +15,6 @@ From the original data examples with missing values were removed (the majority h
 
 Output: Predict the age of abalone from physical measurements
 
+# EDA
+
 [View Analysis Report](https://vaibhavthapli.github.io/Age_of_Abalone/Analysis_report.html)
